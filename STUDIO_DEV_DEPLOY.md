@@ -85,7 +85,7 @@ get_stats     {"grants":2,"by_status":{"reclaimed":1,"renounced":1},"paid_out":"
 get_balance   {"balance":"0","credits":"0","escrowed":"0"}
 funder        100 → 96.9996   (5 GEN escrowed, 2 GEN returned)
 grantee       100 → 102.9999  (+3 GEN: two tranches of tidepool, one of lantern)
-stranger      100 → 99.9990   (the refused 1 GEN came back; the rest is fees for 9 calls)
+stranger      100 → 99.9990   (the refused 1 GEN came back; the rest is fees)
 ```
 
 6.000000000000000001 GEN went in and the same amount came out.
